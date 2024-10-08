@@ -16,7 +16,7 @@ def preprocess_image(image_path, target_size):
     img_array = img_array / 255.0                              
     return img_array
 
-test_image_path = sys.argv[1]
+test_image_path = 'Path/To/Testing/Image'
 preprocessed_image = preprocess_image(test_image_path, target_size=(128, 128))
 
 prediction = model.predict(preprocessed_image, verbose = 0)
