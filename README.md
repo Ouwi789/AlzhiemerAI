@@ -1,5 +1,6 @@
 # AlzhiemerAI
  Binary Classification Model with CNN architecture for early detection of Alzhiemers (Trained on MRI scans of Very Mild Dementia and No Dementia) <br/>
+ <br/>
  Examples (As Run in Test.py): <br/>
  - Achieved: Dementia|[[99.27961]] <br/>
      ![OAS1_0003_MR1_mpr-1_141](https://github.com/user-attachments/assets/ed6c1580-8557-455d-abd7-0104581e200e) <br/>
